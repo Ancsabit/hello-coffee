@@ -1,35 +1,34 @@
+body {
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+p, li {
+    font-size: 14px;
+}
+strong {
+    font-size: 14px;
+    background-color: darksalmon;
+}
 
-         body {
-                background-color: beige;
-                font-family: Verdana, Geneva, Tahoma, sans-serif;
-                text-align: left;
-            }
-            p, li {
-                font-size: 14px;
-            }
-            strong {
-                font-size: 14px;
-                background-color: darksalmon;
-            }
-           
-            h1 {
-                color: brown;
-                background-color: beige;
-                text-align: center;
-            }
-            h2 {
-                color: chocolate;
-            }
-            .info-border {
-                text-align: center;
-                border-bottom: 2px solid black;
-            }
-            .enjoy {
-                background-color:salmon;
-                color: blueviolet;
-                font-size: 35px;
-                text-align: center;
-            }
-            .coffeemaking {
-                text-align: center;
-            }
+h1 {
+    color: brown;
+    background-color: beige;
+    text-align: center;
+}
+h2 {
+    color: chocolate;
+}
+.info {
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.enjoy {
+    background-color:salmon;
+    color: blueviolet;
+    font-size: 35px;
+    text-align: center;
+}
+.coffeemaking {
+    text-align: center;
+}
